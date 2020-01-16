@@ -4,6 +4,7 @@
     <Header />
 
     <nuxt />
+    
     <!-- 页部组件 -->
     <Footer />
   </div>
