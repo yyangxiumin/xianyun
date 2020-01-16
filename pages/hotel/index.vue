@@ -1,5 +1,6 @@
 <template>
-  <div>首页</div>
+  <!-- 酒店模块首页 -->
+  <div>酒店</div>
 </template>
 
 <script>
